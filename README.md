@@ -1,2 +1,2 @@
-# DestinyCalls3D_Assets
-3D ASSETS
+# DestinyCalls Beta Builds
+Install this to preview DC NeverRage
